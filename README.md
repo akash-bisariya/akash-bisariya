@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akash-bisariya
 - 👀 I’m interested in Software Development, specially mobile application development.
 - 🌱 I’m currently learning Flutter & Dart.
-- 💞️ I’m looking to collaborate on Android,Flutter.
+- 💞️ I’m looking to collaborate on Android, Flutter.
 - 📫 How to reach me Email bigakash@gmail.com, Twitter @bigakash, LinkedIn https://www.linkedin.com/in/akash-bisariya/
 
 <!---
